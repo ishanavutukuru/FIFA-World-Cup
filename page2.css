@@ -1,0 +1,28 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+  background-color:mistyrose ;
+  margin: 20px;
+  padding: 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color:indianred;
+  font-size: 20px;
+}
+
+li{
+  display: inline-block;
+  padding: 10px;
+  font-size:20px;
+}
+
+a{
+  text-decoration:none ;
+}
+
+footer{
+  background-color:lightcyan;
+  height:150px ;
+}
